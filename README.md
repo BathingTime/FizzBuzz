@@ -390,7 +390,7 @@ System.out.println(count);
 
 These will all be positive integers.
 
-- [ ] Generalize the code so that it uses:
+- [x] Generalize the code so that it uses:
     - `n` in place of where 1000 was previously used
     - `a` where 3 was used
     - `b` where 5 was used.
